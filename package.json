@@ -19,9 +19,11 @@
   },
   "dependencies": {
     "@nuxtjs/color-mode": "^3.3.2",
+    "@rollup/rollup-win32-ia32-msvc": "^4.9.6",
     "@vueuse/core": "^10.7.1",
     "focus-trap": "^7",
     "pruvious": "^3.9.9",
+    "rollup": "^4.9.6",
     "swiper": "^11.0.5"
   },
   "devDependencies": {
